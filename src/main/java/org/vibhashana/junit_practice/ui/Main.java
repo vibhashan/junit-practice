@@ -1,4 +1,4 @@
-package org.vibhashana.junit_practice.collections.ui;
+package org.vibhashana.junit_practice.ui;
 
 import java.util.Scanner;
 

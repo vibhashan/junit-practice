@@ -35,7 +35,8 @@ public class BookDetails {
 		return books.get(books.size() - 1).getId();
 	}
 
-	public static void displayBookCount() {
+	public static int displayBookCount() {
 		System.out.println("\n---------- Book Count: " + books.size() + " ----------\n");
+		return books.size();
 	}
 }
